@@ -287,3 +287,6 @@ Interactive Data Visualization
 ## Summary
 This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
 
+
+## Tableau Dashboard
+You can explore the interactive Tableau dashboard [here](https://public.tableau.com/views/AviationData-Phase1Project/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
